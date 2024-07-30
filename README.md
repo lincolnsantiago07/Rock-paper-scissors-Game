@@ -8,7 +8,7 @@ Este projeto é um jogo baseado no clássico "Pedra, Papel, Tesoura", mas com um
 - **Guerreiro** derrota **Arqueiro**
 - **Arqueiro** derrota **Mago**
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas :)
 
 - **Flutter**: Framework para desenvolvimento de interfaces de usuário para aplicações móveis, web e desktop.
 - **Firebase**: Plataforma de desenvolvimento de aplicativos que inclui banco de dados em tempo real, autenticação e armazenamento em nuvem.
