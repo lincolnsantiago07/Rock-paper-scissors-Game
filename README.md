@@ -1,5 +1,9 @@
 # 🧙‍♂️ Dungeon Fighter 🏹
 
+## 🎮 Como jogar?
+
+- Você pode acessar meu projeto através desse link: https://66a9546610de999bdf664b95--stalwart-pie-1c3756.netlify.app
+
 ## 📜 Descrição
 
 Este projeto é um jogo baseado no clássico "Pedra, Papel, Tesoura", mas com uma temática medieval, onde os jogadores escolhem entre Mago, Arqueiro e Guerreiro. Cada personagem tem suas próprias características e habilidades:
