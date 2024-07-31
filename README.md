@@ -9,7 +9,7 @@ Cada personagem tem suas próprias características e habilidades:
 - 🧙‍♂️ **Mago** ⚔️ **Guerreiro** 🪖
 - 🪖 **Guerreiro** ⚔️ **Arqueiro** 🏹
 - 🏹 **Arqueiro** ⚔️ **Mago** 🧙‍♂️
-- 
+  
 ## 📜 Descrição
 
 **Disclaimer:** Este projeto não tem como finalidade ter uma HUD ou UI/UX, muito menos um sistema de filtragem ou autenticação. O intuito é apenas para demonstração de funcionalidades e tecnologias atreladas ao flutter/dart.
