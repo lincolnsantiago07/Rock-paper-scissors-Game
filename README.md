@@ -4,18 +4,19 @@
 
 - Você pode acessar meu projeto através desse link: https://66a9546610de999bdf664b95--stalwart-pie-1c3756.netlify.app
 
-## 📜 Descrição
-
-Este projeto é um jogo **single player** baseado no clássico "Pedra, Papel e Tesoura", mas com uma temática medieval, onde os jogadores escolhem entre Mago, Arqueiro e Guerreiro através de um formulário.
-
-**Disclaimer:** Este projeto não tem como finalidade ter uma HUD ou UI/UX, muito menos um sistema de filtragem ou autenticação. O intuito é apenas para demonstração de funcionalidades e tecnologias atreladas ao flutter/dart.
-
-O banco de dados está disponível e compartilhado para todos, sem nenhuma autenticação prévia, todos os jogadores irão compartilhar e administrar o sistema CRUD do jogo.
 Cada personagem tem suas próprias características e habilidades:
 
 - 🧙‍♂️ **Mago** ⚔️ **Guerreiro** 🪖
 - 🪖 **Guerreiro** ⚔️ **Arqueiro** 🏹
 - 🏹 **Arqueiro** ⚔️ **Mago** 🧙‍♂️
+- 
+## 📜 Descrição
+
+**Disclaimer:** Este projeto não tem como finalidade ter uma HUD ou UI/UX, muito menos um sistema de filtragem ou autenticação. O intuito é apenas para demonstração de funcionalidades e tecnologias atreladas ao flutter/dart.
+
+Este projeto é um jogo **single player** baseado no clássico "Pedra, Papel e Tesoura", mas com uma temática medieval, onde os jogadores escolhem entre Mago, Arqueiro e Guerreiro através de um formulário.
+
+O banco de dados está disponível e compartilhado para todos, sem nenhuma autenticação prévia, todos os jogadores irão compartilhar e administrar o sistema CRUD do jogo.
 
 ## 🛠️ Tecnologias Utilizadas
 
